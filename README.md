@@ -103,12 +103,19 @@ Setup SQL database for Microsoft:
 ##############Now let's start creating ADF Service####################
 
 	1. Under resource group select your resource "intech-rg".
+ 
 	2. Then click on create 
-	3. You will navigate to marketplace
-	4. Select checkbox azure services only 
+
+ 	3. You will navigate to marketplace
+	
+ 	4. Select checkbox azure services only 
+  
 	5. Search data factory select 
+ 
 	6. Click create 
+ 
 	7. Then navigate to subscription page 
+ 
 	8. Select below details 
 	
 	A. Basic
@@ -135,7 +142,9 @@ Setup SQL database for Microsoft:
 **Step 8: Create service azure key vault under resource group "intech-rg"**
 
 	1. Search for Key-Vault
+ 
 	2. create key vault
+ 
 	3. Configuration
 	
 	A. Basic 
