@@ -310,7 +310,6 @@ Setup SQL database for Microsoft:
 			8 Then navigate to SetProperties and check table name is populated or not
 				Click ok and preview data
 
-
 **Step 12 Sink :**
 
 	Steps 
