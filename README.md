@@ -315,6 +315,7 @@ Setup SQL database for Microsoft:
 
 **Step 12 Sink :**
 
+	![ADF Pipeline](https://raw.githubusercontent.com/VishalGirase/ADF/Dev/Images/2.png)
 	Steps 
 		1. Under sink dataset click new
 		2. Search for data lake gen2 click on 
@@ -472,6 +473,8 @@ Setup SQL database for Microsoft:
 **Step 19 : Publish and run the pipeline**
 
 **Step 20 : Check the Parque file in gen2 storage**
+
+	![ADF Pipeline](https://raw.githubusercontent.com/VishalGirase/ADF/Dev/Images/3.png)
 
 	1 Check raw Parque files in bronze container
 	2 Check Intermediate files in silver container 
