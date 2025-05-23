@@ -218,7 +218,7 @@ Setup SQL database for Microsoft:
 	5. Under move and transform drag copy data 
 	6 Configuration
 
- 	![image](https://github.com/user-attachments/assets/b022a075-522a-43f1-88e4-62535aa6aaeb)
+ 	![ADF Pipeline](https://raw.githubusercontent.com/VishalGirase/ADF/Dev/Images/1.png)
 	
 		A. General 
 			Name: Copy data
