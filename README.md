@@ -312,6 +312,7 @@ Setup SQL database for Microsoft:
 
 
 **Step 12 Sink :**
+
 	Steps 
 		1. Under sink dataset click new
 		2. Search for data lake gen2 click on 
@@ -333,6 +334,7 @@ Setup SQL database for Microsoft:
 		8. Now click debug and see the data under bronze.
 		
 **Step 13 Drag lookup from Activities**
+
 	SSMS 
 	
 	GRANT Select ON SCHEMA::SalesLT TO luke; 
@@ -389,6 +391,7 @@ Setup SQL database for Microsoft:
 		10. Now click on lookup and click on debug 
 		
 **Step 15 Create Azure databricks Service under resource group**
+
 	Steps 
 		1. Search azure databricks
 		2. Click on create 
