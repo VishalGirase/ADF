@@ -1,0 +1,9 @@
+{
+	"name": "intech-vishal",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dc9f9264-57cd-4645-a292-782d0b01ae29",
+		"tenantId": "ba79b614-bbb0-4145-9e54-aa76baecdc3b"
+	}
+}
