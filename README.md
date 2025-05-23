@@ -5,6 +5,7 @@
 	2 AdvantureWorksLT2022.bak
 
 Setup SQL database for Microsoft:
+
 **Step 2: Download SQL server**
 	
  	1 https://www.microsoft.com/en-IN/sql-server/sql-server-downloads
