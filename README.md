@@ -24,33 +24,48 @@ Setup SQL database for Microsoft:
  	2 Restart for installation
 
 **Step 4: Open SQL server management studio(SSMS)**
-	1. Search for SSMS in search bar
-	2. Select default server name DESKTOP-09RJQ41\SQLEXPRESS
-	3. click connect
-	4. Once connect under object explorer you can see below options
+	
+ 	1. Search for SSMS in search bar
+	
+ 	2. Select default server name DESKTOP-09RJQ41\SQLEXPRESS
+	
+ 	3. click connect
+	
+ 	4. Once connect under object explorer you can see below options
 		a. Databases 
 		b. security
 		c. Server object
 		d. Replication
 		e. Management
-	5. Move downloaded AdventureWorksLT2022 backup to path "C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\Backup"
-	6. Then we have to restore database that we Gonna connect to SSMS
-	7. Just right click on database then select restore database
-	8. Under Source click on device
-	8. click on three dots ...
-	9. Then click Add
-	10. Go to path "C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\Backup"
-	11. Add Backup database file 
-	12. Click ok then let database restored.
-	13. Once load successfully you can see on left hand side
-	under database you can see AdvantureWorksLT2022
+	
+ 	5. Move downloaded AdventureWorksLT2022 backup to path "C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\Backup"
+	
+ 	6. Then we have to restore database that we Gonna connect to SSMS
+	
+ 	7. Just right click on database then select restore database
+	
+ 	8. Under Source click on device
+	
+ 	9. click on three dots ...
+	
+ 	10. Then click Add
+	
+ 	11. Go to path "C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\Backup"
+	
+ 	12. Add Backup database file 
+	
+ 	13. Click ok then let database restored.
+	
+ 	14. Once load successfully you can see on left hand side
+		under database you can see AdvantureWorksLT2022
 		1. Database diagram 
 		2. Table 
 		3. Views 
 		4. External Resources and many more
-	14. Try running table by selecting first 1000 rows
+	
+ 	15. Try running table by selecting first 1000 rows
 
-Here we completed First step by installing Microsoft based SQL Server Management Studio
+	Here we completed First step by installing Microsoft based SQL Server Management Studio
 
 	B. Create resource Group and create ADF service 	
 
