@@ -469,6 +469,7 @@ Setup SQL database for Microsoft:
 **Step 19 : Publish and run the pipeline**
 
 **Step 20 : Check the Parque file in gen2 storage**
+
 	1 Check raw Parque files in bronze container
 	2 Check Intermediate files in silver container 
 	3 Check Target files in Gold container   
