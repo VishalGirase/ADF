@@ -1,14 +1,19 @@
 **Step 1: Download dataset**
 	1 Dataset: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
+ 
 	2 AdvantureWorksLT2022.bak
 
 Setup SQL database for Microsoft:
 **Step 2: Download SQL server**
 	1 https://www.microsoft.com/en-IN/sql-server/sql-server-downloads
-	2 Once download the express version
-	3 In express edition select basic
-	4 Accept term and condition
-	5 Then install
+
+ 	2 Once download the express version
+	
+ 	3 In express edition select basic
+	
+ 	4 Accept term and condition
+	
+ 	5 Then install
 
 **Step 3: Download SQL server management studio**
 	1 https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN
