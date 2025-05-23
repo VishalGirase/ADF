@@ -217,6 +217,8 @@ Setup SQL database for Microsoft:
 	4. Now under activities select source and transform
 	5. Under move and transform drag copy data 
 	6 Configuration
+
+ 	![image](https://github.com/user-attachments/assets/b022a075-522a-43f1-88e4-62535aa6aaeb)
 	
 		A. General 
 			Name: Copy data
